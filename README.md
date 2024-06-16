@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @dinbandhu12
-- 🤓 I'm a IT Student
-- 👀 I’m interested in Coding in Python and Java and also Web-development
-- 🌱 I’m currently working on a major project
-- 💞️ I’m looking to collaborate with others
+- 🤓 A Full Stack Web Developer
+- 👀 Interested in Coding in Full Stack Web Development and Java Programming
 - 📫 Lets write code together
 
 <!---
