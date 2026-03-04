@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dinbandhu12
-- 🤓 A Full Stack Web Developer
-- 👀 Interested in Coding in Full Stack Web Development and Java Programming
+- 🤓 A Full Stack Developer
+- 👀 Interested in Coding in Full Stack Web Development
 - 📫 Lets write code together
 
 <!---
